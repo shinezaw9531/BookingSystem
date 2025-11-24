@@ -1,0 +1,11 @@
+C:\ShineDev\ShineZ\pj\BookingSystem\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\ShineDev\ShineZ\pj\BookingSystem\Domain\bin\Debug\net8.0\Domain.dll
+C:\ShineDev\ShineZ\pj\BookingSystem\Domain\bin\Debug\net8.0\Domain.pdb
+C:\ShineDev\ShineZ\pj\BookingSystem\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ShineDev\ShineZ\pj\BookingSystem\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\ShineDev\ShineZ\pj\BookingSystem\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\ShineDev\ShineZ\pj\BookingSystem\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\ShineDev\ShineZ\pj\BookingSystem\Domain\obj\Debug\net8.0\Domain.dll
+C:\ShineDev\ShineZ\pj\BookingSystem\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\ShineDev\ShineZ\pj\BookingSystem\Domain\obj\Debug\net8.0\Domain.pdb
+C:\ShineDev\ShineZ\pj\BookingSystem\Domain\obj\Debug\net8.0\ref\Domain.dll
