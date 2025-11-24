@@ -35,6 +35,11 @@ CREATE TABLE Packages (
 );
 GO
 
+INSERT INTO Packages (Name, Price, InitialCredits, CountryId) VALUES
+('Starter Kit US', 49.99, 5, 1),
+('Premium Monthly CA', 99.99, 5, 2);
+GO
+
 CREATE TABLE UserPackages (
     Id INT PRIMARY KEY IDENTITY(1,1),
     UserId INT NOT NULL,
@@ -60,6 +65,11 @@ CREATE TABLE ClassSchedules (
     FOREIGN KEY (CountryId) REFERENCES Countries(Id),
     INDEX IX_ScheduleTime (StartTime, EndTime)
 );
+GO
+
+INSERT INTO ClassSchedules (Name, StartTime, EndTime, RequiredCredits, MaxCapacity, CountryId) VALUES
+('Morning Yoga Flow (SG)', '2025-11-25 09:00:00', '2025-11-25 10:00:00', 3, 20, 1),
+('Evening Spin Class (MM)', '2025-11-25 18:30:00', '2025-11-25 19:30:00', 5, 15, 2);
 GO
 
 CREATE TABLE Bookings (
